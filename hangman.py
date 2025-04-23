@@ -58,3 +58,6 @@ if st.session_state.game_over:
 # Footer
 st.markdown("---")
 st.write("Made with ❤️ by Hamza Syed~")
+
+# Check out the output:
+# https://hangmangame-dgg4srnnbhjfdrdexcjhiy.streamlit.app/
